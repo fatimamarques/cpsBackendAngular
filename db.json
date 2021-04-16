@@ -1,0 +1,42 @@
+{
+  "produtos": [
+    {
+      "nome": "Curso de Angular",
+      "validade": "2021-05-28",
+      "preco": 340,
+      "id": 1
+    },
+    {
+      "nome": "Curso de Ionic",
+      "validade": "2021-05-28",
+      "preco": 250.12,
+      "id": 2
+    },
+    {
+      "nome": "Curso Ionic Avançado",
+      "validade": "2021-04-30",
+      "preco": 123,
+      "id": 3
+    },
+    {
+      "nome": "Curso de Angular avançado",
+      "validade": "2021-04-22",
+      "preco": 123,
+      "id": 5
+    }
+  ],
+  "clientes": [
+    {
+      "nome": "Angela Maria Monteiro",
+      "dtNasc": "1959-05-28",
+      "email": "angela@gmail.com",
+      "id": 1
+    },
+    {
+      "nome": "Roberta Souza",
+      "dtNasc": "2019-08-06",
+      "email": "roberta@gmail",
+      "id": 2
+    }
+  ]
+}
